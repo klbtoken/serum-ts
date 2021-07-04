@@ -1,9 +1,9 @@
 {
-  "name": "@project-serum/serum",
-  "version": "0.13.41",
+  "name": "@cheesesoda/serum",
+  "version": "0.14.0",
   "description": "Library for interacting with the serum dex",
   "license": "MIT",
-  "repository": "project-serum/serum-ts",
+  "repository": "cheesesoda/serum-ts",
   "main": "lib/index.js",
   "source": "src/index.js",
   "types": "lib/index.d.ts",
