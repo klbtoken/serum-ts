@@ -94,5 +94,11 @@
 		"deprecated": false,
 		"name": "MOLA/USDC",
 		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
-	}
+	},
+  {
+    "address": "28UzKVL5kwzPA9xdLFYJRManeY6RHgmTiU5K1h13XCRv",
+    "deprecated": false,
+    "name": "CARE/USDC,
+		"programId": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin"
+	}    
 ]
