@@ -242,5 +242,9 @@
 	{
 		"address": "AMdnw9H5DFtQwZowVFr4kUgSXJzLokKSinvgGiUoLSps",
 		"name": "MOLA"
-	}
+	},
+  {
+    "address": "z9WZXekbCtwoxyfAwEJn1euXybvqLzPVv3NDzJzkq7C",
+    "name": "CRC"
+  }
 ]
